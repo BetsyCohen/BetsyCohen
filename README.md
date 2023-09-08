@@ -8,13 +8,10 @@ Desde 2023 participo en el capítulo Buenos Aires de RLadies, una organización 
 
 Podes saber más sobre nosotras en / *You can learn more about us at*: [R-Ladies Buenos Aires](https://github.com/RLadies-BA)
 
----------------------
-
-### Dónde contactarme / Contact me 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betsabe1984/)
-
-
 ### Lenguajes y herramientas / Languages and tools
 <code><img height="27" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" alt="r"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
+### Dónde contactarme / Contact me 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betsabe1984/)
