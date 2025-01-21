@@ -6,7 +6,7 @@
 I'm part of the organizer team in Raldies Buenos Aires, a global organization that promotes Gender Diversity in the R community, and I also participate in Núcleo de Innovación Social an interdisciplinary research and development hub in sociology and tech.
 
 ### Languages and tools
-<code><img height="27" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" alt="r"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
