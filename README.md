@@ -1,9 +1,12 @@
 ## Hi I'm Betsy 👋
 
-🏛️ I am a sociologist (UBA) and data analyst. My goal is to help people make decisions by creating a data-driven culture that opens them up to new perspectives.
-👩🏻‍🎓 I am currently a student of the Master's Degree in Statistics
+I am a sociologist (UBA) and data analyst. 
 
-I'm part of the organizer team in Raldies Buenos Aires, a global organization that promotes Gender Diversity in the R community, and I also participate in Núcleo de Innovación Social an interdisciplinary research and development hub in sociology and tech.
+My goal is to help people make decisions by creating a data-driven culture that opens them up to new perspectives.  
+
+👩🏻‍🎓 I am currently a Masters student in Statistics at UNTREF.
+
+I'm part of the organising team of RLadies Buenos Aires, a global organisation that promotes gender diversity in the R community since 2022, and I'm also an organizer in Núcleo de Innovación Social, an interdisciplinary research and development in social sciences and technology.
 
 ### Languages and tools
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r"></code>
