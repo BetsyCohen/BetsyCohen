@@ -2,14 +2,15 @@
 
 I am a sociologist (UBA) and data analyst. 
 
-My goal is to help people make decisions by creating a data-driven culture that opens them up to new perspectives.  
+I like helping people make decisions by creating data literacy and a data-driven culture. 
 
-👩🏻‍🎓 I am currently a Masters student in Statistics at UNTREF, and a sociology teacher at UFLO.
+👩🏻‍🎓 I am currently a Masters student in Statistics at UNTREF and a Sociology teacher at UFLO.
 
-### Organizations I colaborate with
+### Organisations I am part of:
 
-**RLadies Buenos Aires**:  A global organisation that promotes gender diversity in the R community
-**Núcleo de Innovación Social**: An interdisciplinary research and development in social sciences and technology.
+[**RLadies Buenos Aires**](https://rladiesba.netlify.app):  A global organisation that promotes gender diversity in the R community 
+
+[**Núcleo de Innovación Social**](https://nucleodeinnovacionsocial.com.ar): An interdisciplinary research and development team in social sciences and technology.
 
 ### Languages and tools
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r"></code>
